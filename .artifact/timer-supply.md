@@ -4,6 +4,7 @@ date: 2019-01
 category: product
 tags:
   - web
+  - time
 url: https://timer.supply
 links:
   source: https://github.com/arfct/timer.supply
