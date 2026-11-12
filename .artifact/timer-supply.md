@@ -1,6 +1,7 @@
 ---
 title: Timer Supply
 date: 2019-01
+status: released
 category: product
 tags:
   - web
@@ -15,8 +16,7 @@ media:
   - src: presets.png
     caption: Before a timer starts, the field shows 05m00s as a placeholder above the seven presets
     alt: Grey monospace digits reading 05m00s on a white page, with a row of pale presets below from 5m to 60m
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 Opening timer.supply/#10m starts a ten-minute countdown, because Timer Supply writes every duration into its own address after the #. Opened without one, the page is a single text field with seven presets beneath it, from 5 to 60 minutes. Type 5m, 90s or 2:30 and press Enter, or click a preset.
