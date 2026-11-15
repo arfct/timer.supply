@@ -2,7 +2,7 @@
 title: Timer Supply
 date: 2019-01
 status: released
-category: product
+category: web-tool
 tags:
   - web
   - time
